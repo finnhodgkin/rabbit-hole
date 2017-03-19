@@ -2,7 +2,7 @@
 
 ### Wikipedia rabbit hole
 
-Just clone the repo or visit the live version [here]()
+Just clone the repo or visit the live version [here](https://finnhodgkin.github.io/rabbit-hole/wikipedia-rabbit-hole/index.html)
 
 ### Wordnik dictionary rabbit hole
 
